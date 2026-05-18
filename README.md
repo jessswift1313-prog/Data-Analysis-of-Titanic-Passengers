@@ -132,7 +132,3 @@ The original notebook-based workflow was progressively refactored into reusable 
 
 Jess Swift  
 Mathematics & Economics Student — Université Paris-Saclay
-
-```{code-cell} ipython3
-
-```
