@@ -139,5 +139,5 @@ The original notebook-based workflow was progressively refactored into reusable 
 
 # Author
 
-Jess Swift  
+Sichao Jing
 Mathematics & Economics Student — Université Paris-Saclay
