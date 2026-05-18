@@ -108,9 +108,15 @@ Generated visualizations are automatically saved inside the `outputs/` directory
 
 Example:
 
-![outputs/survival_by_gender.png](outputs/survival_by_gender.png)
-![outputs/survival_by_port.png](outputs/survival_by_port.png)
-![outputs/survival_by_cabin.png](outputs/survival_by_cabin.png)
+<div style="display: flex; gap: 10px; justify-content: space-between;">
+
+  <img src="outputs/survival_by_gender.png" width="32%" />
+
+  <img src="outputs/survival_by_port.png" width="32%" />
+
+  <img src="outputs/survival_by_cabin.png" width="32%" />
+
+</div>
 
 ---
 
