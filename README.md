@@ -119,7 +119,7 @@ Example:
 
 <div align="center">
 
-<img src="outputs/survival_by_cabin.png" width="45%" />
+<img src="outputs/survival_by_cabin.png" width="55%" />
 
 </div>
 
