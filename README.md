@@ -40,7 +40,8 @@ Titanic/
 ├── cabin.py
 ├── main.py
 │
-├── REPORT_fr.ipynb
+├── REPORT_EN.ipynb
+├── REPORT_FR.ipynb
 └── running.ipynb
 ```
 
