@@ -129,10 +129,10 @@ Example:
 # Purpose of the Project
 
 This project was created as a practice exercise in:
-- exploratory data analysis (EDA),
+- Exploratory data analysis (EDA),
 - Python project organization,
-- data visualization,
-- and modular programming.
+- Data visualization,
+- Modular programming.
 
 The original notebook-based workflow was progressively refactored into reusable Python modules to improve code readability and maintainability.
 
