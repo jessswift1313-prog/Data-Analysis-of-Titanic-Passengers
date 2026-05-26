@@ -53,7 +53,7 @@ def survival_by_gender(titanic):
         textprops = dict(fontsize = 10),
     )
     ax.legend(bbox_to_anchor = (1.3, 0.5))
-    ax.set_title("Répartition des surviants selon le sexe")
+    ax.set_title("Distribution of survivors by sex")
     
     plt.show()
     fig.savefig("outputs/survival_by_gender.png")
